@@ -1,0 +1,15 @@
+C:\Users\Антон\Desktop\examles\examplesC-\ex001_Hello_conole\bin\Debug\net6.0\ex001_Hello_conole.exe
+C:\Users\Антон\Desktop\examles\examplesC-\ex001_Hello_conole\bin\Debug\net6.0\ex001_Hello_conole.deps.json
+C:\Users\Антон\Desktop\examles\examplesC-\ex001_Hello_conole\bin\Debug\net6.0\ex001_Hello_conole.runtimeconfig.json
+C:\Users\Антон\Desktop\examles\examplesC-\ex001_Hello_conole\bin\Debug\net6.0\ex001_Hello_conole.dll
+C:\Users\Антон\Desktop\examles\examplesC-\ex001_Hello_conole\bin\Debug\net6.0\ex001_Hello_conole.pdb
+C:\Users\Антон\Desktop\examles\examplesC-\ex001_Hello_conole\obj\Debug\net6.0\ex001_Hello_conole.csproj.AssemblyReference.cache
+C:\Users\Антон\Desktop\examles\examplesC-\ex001_Hello_conole\obj\Debug\net6.0\ex001_Hello_conole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Антон\Desktop\examles\examplesC-\ex001_Hello_conole\obj\Debug\net6.0\ex001_Hello_conole.AssemblyInfoInputs.cache
+C:\Users\Антон\Desktop\examles\examplesC-\ex001_Hello_conole\obj\Debug\net6.0\ex001_Hello_conole.AssemblyInfo.cs
+C:\Users\Антон\Desktop\examles\examplesC-\ex001_Hello_conole\obj\Debug\net6.0\ex001_Hello_conole.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\examles\examplesC-\ex001_Hello_conole\obj\Debug\net6.0\ex001_Hello_conole.dll
+C:\Users\Антон\Desktop\examles\examplesC-\ex001_Hello_conole\obj\Debug\net6.0\refint\ex001_Hello_conole.dll
+C:\Users\Антон\Desktop\examles\examplesC-\ex001_Hello_conole\obj\Debug\net6.0\ex001_Hello_conole.pdb
+C:\Users\Антон\Desktop\examles\examplesC-\ex001_Hello_conole\obj\Debug\net6.0\ex001_Hello_conole.genruntimeconfig.cache
+C:\Users\Антон\Desktop\examles\examplesC-\ex001_Hello_conole\obj\Debug\net6.0\ref\ex001_Hello_conole.dll
